@@ -10,4 +10,5 @@ package proyecto.cliente.servidor;
  */
 public class asdfgh {
     /*hola*/
+    /*eran varas*/
 }
